@@ -1,1 +1,12 @@
-*{transition:all .3s ease-in-out;outline:none}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:800}
+*{transition:all .3s ease-in-out;outline:none}
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:800}
+
+.block {
+    width: 20px;
+    height: 20px;
+    background-color: #1f2041;
+    }
+.block_bgdark75{opacity: .75;}
+.block_bgdark50{opacity: .5;}
+.block_bgdark25{opacity: .25;}
+.block_bgdark5{opacity: .05;}
