@@ -1,10 +1,22 @@
 *{transition:all .3s ease-in-out;outline:none}
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:800}
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Quicksand:400,700&display=swap');
+/*
+font-family: 'Quicksand', sans-serif;
+font-family: 'Montserrat', sans-serif;
+*/
+.colors{
+    margin-left: 150px;
+    margin-top: 145px
+}
+
 .colors__item{
-    width: 140px;
-    height: 140px;
-    border-radius: 10px}
+    width: 70px;0
+    height: 70px;
+    border-radius: 6px;
+    margin-bottom: 20px}
+
 .colors__item_bgdark{background-color: #1f2041}
 .colors__item_bgdark75{
     background-color: #1f2041;
@@ -24,3 +36,22 @@
 }
 .colors__item_bgpurple{background-color: #bc9cff}
 .colors__item_bggreen{background-color: #6fcf97}
+
+.colors__name{
+    margin-left: 40px;
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 29px;
+}
+.colors__code{
+    margin-left: 40px;
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 29px;
+    text-transform: uppercase;
+
+}
