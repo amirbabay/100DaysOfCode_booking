@@ -1,7 +1,7 @@
 *{transition:all .3s ease-in-out;outline:none}
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:800}
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat|Quicksand:400,700&display=swap');
+
 /*
 font-family: 'Quicksand', sans-serif;
 font-family: 'Montserrat', sans-serif;
@@ -12,7 +12,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .colors__item{
-    width: 70px;0
+    width: 70px;
     height: 70px;
     border-radius: 6px;
     margin-bottom: 20px}
