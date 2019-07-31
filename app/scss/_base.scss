@@ -7,4 +7,25 @@
 	margin-top: 30px;
 	margin-bottom: 67px;
 }
+/* Group1 - Colors */
+
+.colors {margin-left: 150px}
+.colors__item{
+    width: 70px;
+    height: 70px;
+    border-radius: 6px;
+    margin-bottom: 20px
+}
+.colors-text{margin-top: 10px}
+.colors-text__name,
+.colors-text__code{margin-left: 40px}
+
+
+.colors__item_bgdark{background-color: #1f2041}
+.colors__item_bgdark75{background-color: #575871}
+.colors__item_bgdark50{background-color: #8f90a0}
+
+
+
+
 
