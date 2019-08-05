@@ -7,6 +7,17 @@
 	margin-top: 30px;
 	margin-bottom: 67px;
 }
+.mygrid{
+	display: grid;
+	grid-template-areas:
+	"colors" "empty_space" "headers";
+	grid-template-columns: 270px 435px 405px;
+
+}
+
+
+
+
 /* Group1 - Colors */
 
 .colors {margin-left: 150px}
@@ -28,7 +39,7 @@
 .colors__item_bgdark5{background-color: #f4f4f6}
 
 /* Group2 - Text Levels */
-textlevels__h1{
+.textlevels__h1{
 	margin-left: 435px;
 }
 .textlevels > .h1{
